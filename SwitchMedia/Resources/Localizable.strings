@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  SwitchMediaTechnicalTest
+
+  Created by Jithin on 1/5/17.
+  Copyright © 2017 Jithinpala. All rights reserved.
+*/
+
+// Menu button title
+"menu.title.home" = "HOME";
+"menu.title.live" = "LIVE TV";
+"menu.title.anytime" = "ANYTIME";
+"menu.title.kids" = "KIDS";
+"menu.title.player" = "Player";
+
+// User Alert message
+
+"alert.internet.warning" = "Please check your internetconnection.";
+"alert.internet.warning.setting" = "Please check your internetconnection. Do you want to open settings.";
